@@ -1,5 +1,5 @@
 
-:HEIC to .png CONVERTER
+.HEIC to .png CONVERTER
 
 Usage:
 Put your ".HEIC" Files in the same Directory as this Readme-File.
